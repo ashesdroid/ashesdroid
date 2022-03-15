@@ -4,7 +4,7 @@
         I want to be original, but like the art style and telling a story through games. I am also working on a no-code Choices story game for a side project - kind of like
         a "Choose your own adventure" book.
 - 💞️ I’m looking to collaborate on ... Currently nothing. I like to get my feet wet first, learn basics on my own or by doing research. When I can understand
--       a topic enough so that someone doesn't have to explain every detail - then I don't mind working with other people.
+        a topic enough so that someone doesn't have to explain every detail - then I don't mind working with other people.
 - 📫 How to reach me ... at this time; please don't. I'm lurking and I like it that way. lol
 
 <!---
